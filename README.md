@@ -1,5 +1,5 @@
 ## Hi there, I'm Can aka finxnzberxter 👋
-Welcome to my GitHub profile! I'm a 16-year-old developer passionate about building cool things and learning new technologies.
+Welcome to my GitHub profile! I'm a 16-year-old developer i love coding, and its my favourite thing to do.
 👨‍💻 About Me
 ```kotlin
 val finxnz = Developer(
@@ -17,3 +17,4 @@ Currently focused on developing and contributing to SpaceBlocks – an exciting 
 
 🌍 About Me
 From Germany 🇩🇪 | Always learning and experimenting with new technologies
+Reach out to me on discord: finxnzberxter
