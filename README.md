@@ -1,4 +1,4 @@
-Hi there, I'm Can aka finxnzberxter 👋
+## Hi there, I'm Can aka finxnzberxter 👋
 Welcome to my GitHub profile! I'm a 16-year-old developer passionate about building cool things and learning new technologies.
 👨‍💻 About Me
 ```kotlin
