@@ -1,6 +1,6 @@
-## Hi there, I'm Can aka finxnzberxter 👋
+## Hi there, I'm Can aka finxnzberxter 
 Welcome to my GitHub profile! I'm a 16-year-old developer i love coding, and its my favourite thing to do.
-## 👨‍💻 More info
+##  More info
 ```kotlin
 val finxnz = Developer(
     pronouns = "he/him",
@@ -14,9 +14,9 @@ val finxnz = Developer(
 )
 ```
 
-## 🚀 What I'm Working On
+##  What I'm Working On
 Currently focused on developing and contributing to SpaceBlocks – an exciting minecraft citybuild server.
 
-## 🌍 About Me
+##  About Me
 From Germany 🇩🇪 | Always learning and experimenting CURRENTLY learning Java.
 Reach out to me on discord: finxnzberxter
