@@ -1,11 +1,11 @@
-## Hi there, I'm Can aka finxnzberxter 
-Welcome to my GitHub profile! I'm a 16-year-old developer i love coding, and its my favourite thing to do.
+## Hi there, I'm Can aka finxnz
+Welcome to my GitHub profile! I'm a 16-year-old developer.
 ##  More info
 ```kotlin
 val finxnz = Developer(
     pronouns = "he/him",
     age = 16,
-    code = listOf("Java", "C#", "PHP", "JavaScript", "HTML", "CSS", "C++", "Python", "Discord.js")
+    code = listOf("Java", "C#", "PHP", "JavaScript", "HTML", "CSS", "Node.js", "Python", "Discord.js")
     tools = listOf("IntelliJ", "Git", "Maven", "Docker")
     techCommunities = mapOf(
         "admin" to "spaceblocks.net"
