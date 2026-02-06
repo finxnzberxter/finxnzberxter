@@ -20,7 +20,7 @@ Currently focused on developing and contributing to SpaceBlocks – an exciting 
 
 ##  About Me
 From Germany 🇩🇪 | Always learning and experimenting CURRENTLY learning Java.
-Reach out to me on discord: finxnzberxter
+Reach out to me on discord: finxnzdev
 
 
 # 💻 Tech Stack:
